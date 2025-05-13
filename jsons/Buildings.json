@@ -7,7 +7,8 @@
         "uniques": [
             "Only available <when [Ancient Sky Tower] Victory is enabled>",
             "Triggers a global alert upon build start"
-        ]
+        ],
+        "quote": "'Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.' - Bible Genesis 11:6"
     },
     {
         "name": "First Temple",
@@ -18,7 +19,8 @@
             "Only available <in [Holy] cities> <when religion is enabled>",
             "Gain a free [Temple] [in this city]",
             "Gain enough Faith for [100]% of a Great Prophet"
-        ]
+        ],
+        "quote": "'The two doors also were of olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid them with gold, and spread gold upon the cherubims, and upon the palm trees.' - Bible, 1 Kings 6:32"
     },
     {
         "name": "Second Temple",
@@ -32,7 +34,8 @@
             "Comment [Only available in a puppeted or annexed non-occupied city with a [First Temple]]",
             "Gain a free [Temple] [in this city]",
             "Gain enough Faith for [100]% of a Great Prophet"
-        ]
+        ],
+        "quote": "'Who hath commanded you to build this house, and to make up this wall?' - Bible, Ezra 5:3"
     },
     {
         "name": "The Pantheon",
@@ -44,11 +47,7 @@
             "Gain a free [Temple] [in this city]",
             "Gain a free [Pantheon] belief <before founding a Pantheon>",
             "Gain a free [Pantheon] belief <upon conquering a city> <before founding a religion>",
-            "[+100]% Natural religion spread [in this city] <after founding a Pantheon> <before founding a religion>",
-            "[+1 Faith] [in all cities] <in cities not following a [major] religion> <after founding a Pantheon> <before founding a religion> <hidden from users>",
-            "Comment [+1 [Faith] in all cities not following a major religion after founding a Pantheon before founding a religion]",
-            "[+10]% [Faith] [in all cities] <in cities not following a [major] religion> <after founding a Pantheon> <before founding a religion> <hidden from users>",
-            "Comment [+10% [Faith] in all cities not following a major religion after founding a Pantheon before founding a religion]"
+            "[+10]% [Faith] [in this city] <in cities not following a [major] religion> <after founding a Pantheon> <before founding a religion>",
         ]
     },
     {
