@@ -1,0 +1,1 @@
+* The icons used in this projects are generated with Gemini, an AI model developed by Google LLC.

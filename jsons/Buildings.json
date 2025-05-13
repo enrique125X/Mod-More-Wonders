@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Tower of Babel",
+        "requiredTech": "Masonry",
+        "cost": 1000000,
+        "isWonder": true,
+        "uniques": [
+            "Only available <when [Ancient Sky Tower] Victory is enabled>",
+            "Triggers a global alert upon build start"
+        ]
+    },
+    {
+        "name": "First Temple",
+        "requiredTech": "Engineering",
+        "faith": 6,
+        "isWonder": true,
+        "uniques": [
+            "Only available <in [Holy] cities> <when religion is enabled>",
+            "Gain a free [Temple] [in this city]",
+            "Gain enough Faith for [100]% of a Great Prophet"
+        ]
+    },
+    {
+        "name": "Second Temple",
+        "requiredTech": "Engineering",
+        "isWonder": true,
+        "uniques": [
+            "Unavailable <when religion is disabled> <hidden from users>",
+            "Unavailable <in [{non-[Annexed]} {non-[Puppeted]}] cities> <hidden from users>",
+            "Unavailable <in [{[Annexed]} {non-[Non-occupied]}] cities> <hidden from users>",
+            "Unavailable <in cities without a [First Temple]> <hidden from users>",
+            "Comment [Only available in a puppeted or annexed non-occupied city with a [First Temple]]",
+            "Gain a free [Temple] [in this city]",
+            "Gain enough Faith for [100]% of a Great Prophet"
+        ]
+    },
+    {
+        "name": "The Pantheon",
+        "requiredTech": "Engineering",
+        "faith": 2,
+        "isWonder": true,
+        "uniques": [
+            "Only available <when religion is enabled>",
+            "Gain a free [Temple] [in this city]",
+            "Gain a free [Pantheon] belief <before founding a Pantheon>",
+            "Gain a free [Pantheon] belief <upon conquering a city> <before founding a religion>",
+            "[+100]% Natural religion spread [in this city] <after founding a Pantheon> <before founding a religion>",
+            "[+1 Faith] [in all cities] <in cities not following a [major] religion> <after founding a Pantheon> <before founding a religion> <hidden from users>",
+            "Comment [+1 [Faith] in all cities not following a major religion after founding a Pantheon before founding a religion]",
+            "[+10]% [Faith] [in all cities] <in cities not following a [major] religion> <after founding a Pantheon> <before founding a religion> <hidden from users>",
+            "Comment [+10% [Faith] in all cities not following a major religion after founding a Pantheon before founding a religion]"
+        ]
+    },
+    {
+        "name": "The Academy",
+        "requiredTech": "Philosophy",
+        "science": 2,
+        "percentStatBonus": { "science": 25 },
+        "greatPersonPoints": {"Great Scientist": 2},
+        "isWonder": true
+    },
+    {
+        "name": "World Trade Center",
+        "requiredTech": "Globalization",
+        "gold": "10",
+        "percentStatBonus": { "gold": 5 },
+        "greatPersonPoints": {"Great Merchant": 1},
+        "isWonder": true
+    }
+]
