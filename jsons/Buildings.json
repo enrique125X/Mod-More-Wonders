@@ -47,12 +47,12 @@
             "Gain a free [Temple] [in this city]",
             "Gain a free [Pantheon] belief <before founding a Pantheon>",
             "Gain a free [Pantheon] belief <upon conquering a city> <before founding a religion>",
+            "[+10]% [Faith] [{in this city} {non-[in all cities in which the majority religion is a major religion]}] <after founding a Pantheon> <hidden from users>",
             "[+1 Faith] [{in this city} {non-[in all cities in which the majority religion is a major religion]}] <after founding a Pantheon> <hidden from users>",
             "[+1 Faith] from every [Temple] <in [{in this city} {non-[in all cities in which the majority religion is a major religion]}] cities> <after founding a Pantheon> <hidden from users>",
-            "[+10]% [Faith] [{in this city} {non-[in all cities in which the majority religion is a major religion]}] <after founding a Pantheon> <hidden from users>",
+            "Comment [+10% [Faith] in this city when its majority religion, if any, isn't a major religion, after founding a Pantheon]",
             "Comment [+1 [Faith] in this city when its majority religion, if any, isn't a major religion, after founding a Pantheon]",
-            "Comment [+1 [Faith] from every [Temple] in this city when its majority religion, if any, isn't a major religion, after founding a Pantheon]",
-            "Comment [+10% [Faith] in this city when its majority religion, if any, isn't a major religion, after founding a Pantheon]"
+            "Comment [+1 [Faith] from every [Temple] in this city when its majority religion, if any, isn't a major religion, after founding a Pantheon]"
         ],
         "quote": "'Every person has their pantheon – the Bible, Hollywood, Shakespeare – their way of understanding the world.' - Ron Suskind"
     },
