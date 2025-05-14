@@ -29,7 +29,7 @@
         "uniques": [
             "Unavailable <when religion is disabled> <hidden from users>",
             "Unavailable <in [{non-[Annexed]} {non-[Puppeted]}] cities> <hidden from users>",
-            "Unavailable <in [{[Annexed]} {non-[Non-occupied]}] cities> <hidden from users>",
+            "Unavailable <in [{Annexed} {non-[Non-occupied]}] cities> <hidden from users>",
             "Unavailable <in cities without a [First Temple]> <hidden from users>",
             "Comment [Only available in a puppeted or annexed non-occupied city with a [First Temple]]",
             "Gain a free [Temple] [in this city]",
