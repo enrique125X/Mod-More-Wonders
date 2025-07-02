@@ -4,20 +4,6 @@ size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/First Temple
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Second Temple
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/The Academy
   rotate: false
   xy: 112, 4
@@ -37,12 +23,5 @@ BuildingIcons/Tower of Babel
   xy: 328, 13
   size: 100, 91
   orig: 100, 91
-  offset: 0, 0
-  index: -1
-BuildingIcons/World Trade Center
-  rotate: false
-  xy: 436, 4
-  size: 100, 100
-  orig: 100, 100
   offset: 0, 0
   index: -1
