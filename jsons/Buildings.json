@@ -1,58 +1,15 @@
 [
     {
-        "name": "Tower of Babel",
-        "requiredTech": "Masonry",
-        "cost": 1000000,
-        "isWonder": true,
-        "uniques": [
-            "Only available <when [Ancient Sky Tower] Victory is enabled>",
-            "Triggers a global alert upon build start"
-        ],
-        "quote": "'Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.' - Bible, Genesis 11:6"
-    },
-    {
-        "name": "First Temple",
-        "requiredTech": "Engineering",
-        "faith": 6,
-        "isWonder": true,
-        "uniques": [
-            "Only available <in [Holy] cities> <when religion is enabled>",
-            "Gain a free [Temple] [in this city]",
-            "Gain enough Faith for [100]% of a Great Prophet"
-        ],
-        "quote": "'But God said unto me, Thou shalt not build an house for my name, because thou hast been a man of war, and hast shed blood.' - Bible, 1 Chronicles 28:3"
-    },
-    {
-        "name": "Second Temple",
-        "requiredTech": "Engineering",
-        "isWonder": true,
-        "uniques": [
-            "Unavailable <when religion is disabled> <hidden from users>",
-            "Unavailable <in [{non-[Annexed]} {non-[Puppeted]}] cities> <hidden from users>",
-            "Unavailable <in [{Annexed} {non-[Non-occupied]}] cities> <hidden from users>",
-            "Unavailable <in cities without a [First Temple]> <hidden from users>",
-            "Comment [Only available in a puppeted or annexed non-occupied city with a [First Temple]]",
-            "Gain a free [Temple] [in this city]",
-            "Gain enough Faith for [100]% of a Great Prophet"
-        ],
-        "quote": "'Who hath commanded you to build this house, and to make up this wall?' - Bible, Ezra 5:3"
-    },
-    {
         "name": "The Pantheon",
-        "requiredTech": "Engineering",
+        "requiredTech": "Calendar",
         "faith": 2,
         "isWonder": true,
         "uniques": [
             "Only available <when religion is enabled>",
             "Gain a free [Temple] [in this city]",
-            "Gain a free [Pantheon] belief <before founding a Pantheon>",
-            "Gain a free [Pantheon] belief <upon conquering a city> <before founding a religion>",
-            "[+10]% [Faith] [{in this city} {non-[in all cities in which the majority religion is a major religion]}] <after founding a Pantheon> <hidden from users>",
-            "[+1 Faith] [{in this city} {non-[in all cities in which the majority religion is a major religion]}] <after founding a Pantheon> <hidden from users>",
-            "[+1 Faith] from every [Temple] <in [{in this city} {non-[in all cities in which the majority religion is a major religion]}] cities> <after founding a Pantheon> <hidden from users>",
-            "Comment [+10% [Faith] in this city when its majority religion, if any, isn't a major religion, after founding a Pantheon]",
-            "Comment [+1 [Faith] in this city when its majority religion, if any, isn't a major religion, after founding a Pantheon]",
-            "Comment [+1 [Faith] from every [Temple] in this city when its majority religion, if any, isn't a major religion, after founding a Pantheon]"
+            "Gain a free [Pantheon] belief",
+            "Gain a free [Pantheon] belief <upon conquering a city> <before the [Renaissance era
+			
         ],
         "quote": "'Every person has their pantheon – the Bible, Hollywood, Shakespeare – their way of understanding the world.' - Ron Suskind"
     },
@@ -65,12 +22,16 @@
         "isWonder": true,
         "quote": "'Let no one ignorant of geometry enter'"
     },
-    {
-        "name": "World Trade Center",
-        "requiredTech": "Globalization",
-        "gold": "10",
-        "percentStatBonus": { "gold": 5 },
-        "greatPersonPoints": {"Great Merchant": 1},
-        "isWonder": true
-    }
-]
+	        "name": "El dolor me persigue",
+        "requiredTech": "Philosophy",
+        "faith": 2,
+        "isWonder": true,
+        "uniques": [
+		"Gain a free [Founder] belief"
+		"[-100]% [Gold] [in capital]"
+		"[Faith] cost of purchasing items in cities [-5]%"
+		"Gain a free [Follower] belief"
+		"[-10]% Strength"
+        ],
+ },
+	]
