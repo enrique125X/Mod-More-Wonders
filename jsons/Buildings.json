@@ -8,8 +8,7 @@
             "Only available <when religion is enabled>",
             "Gain a free [Temple] [in this city]",
             "Gain a free [Pantheon] belief",
-            "Gain a free [Pantheon] belief <upon conquering a city> <before the [Renaissance era
-			
+            "Gain a free [Pantheon] belief <upon conquering a city> <before the [Renaissance era]>"
         ],
         "quote": "'Every person has their pantheon – the Bible, Hollywood, Shakespeare – their way of understanding the world.' - Ron Suskind"
     },
@@ -18,20 +17,21 @@
         "requiredTech": "Philosophy",
         "science": 2,
         "percentStatBonus": { "science": 25 },
-        "greatPersonPoints": {"Great Scientist": 2},
+        "greatPersonPoints": { "Great Scientist": 2 },
         "isWonder": true,
         "quote": "'Let no one ignorant of geometry enter'"
     },
-	        "name": "El dolor me persigue",
+    {
+        "name": "El dolor me persigue",
         "requiredTech": "Philosophy",
         "faith": 2,
         "isWonder": true,
         "uniques": [
-		"Gain a free [Founder] belief"
-		"[-100]% [Gold] [in capital]"
-		"[Faith] cost of purchasing items in cities [-5]%"
-		"Gain a free [Follower] belief"
-		"[-10]% Strength"
-        ],
- },
-	]
+            "Gain a free [Founder] belief",
+            "[-100]% [Gold] [in capital]",
+            "[Faith] cost of purchasing items in cities [-5]%",
+            "Gain a free [Follower] belief",
+            "[-10]% Strength"
+        ]
+    }
+]
